@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Get Back to Work</title>
+  <style>
+    body {
+      background-color: #0c0c0c;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      height: 100vh;
+      margin: 0;
+      background-image: url('https://www.elitecolumn.com/wp-content/uploads/2021/07/David-Goggins-Quotes-3.jpg'); /* dark background with serious vibe */
+      background-size: cover;
+      background-position: center;
+      backdrop-filter: brightness(0.2);
+    }
+
+    .content {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 40px;
+      border-radius: 12px;
+      max-width: 700px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    }
+
+    h1 {
+      font-size: 2rem;
+      color: #ff4d4d;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+
+    strong {
+      color: #ffcc00;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h1>🛑 What the hell are you doing here?</h1>
+    <p>
+      <strong>"You're wasting your goddamn time like a lil' bastard</strong> — scrolling, clicking, running from your responsibilities like some soft punk. Meanwhile, your girl's out there. She's slipping away, man. One day soon, she’s gonna marry someone stronger, someone who had the balls to step up while you sat here <em>DOING NOTHING</em>.<br><br>
+
+      You think life’s gonna wait for you? You think your parents are gonna be healthy forever? Who the hell's gonna carry them when they're sick, huh? You?! Not like this. Not the way you're acting now.<br><br>
+
+      <strong>You disgust me.</strong><br><br>
+
+      Now get your ass back up. Read. Train. Build. Become a f***ing savage. Earn that future. Because right now? You ain't it.<br><br>
+
+      <strong>STAY HARD.</strong>"
+    </p>
+  </div>
+</body>
+</html>
